@@ -12,11 +12,6 @@
 - SQL (PostgreSQL, ClickHouse)
 - BI-инструменты (если будут)
 
-## Как использовать:
-1. Склонировать репозиторий:
-   ```bash
-   git clone https://github.com/m-amirov/karpov.courses-analytics.git
-
 ## Контакты  
 📩 Email: jombo59rus@gmail.com  
 💬 [Telegram](https://t.me/TopskiyMaks)  
